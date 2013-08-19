@@ -1,2 +1,2 @@
 puts "hey what's up"
-puts "Ryan sucks"
+puts "Ryan does not suck"
